@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv-develop&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dhruv-develop&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Dhruv-develop&label=Profile%20Views&color=7aa2f7&style=for-the-badge)](https://github.com/Dhruv-develop)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
